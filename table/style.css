@@ -1,0 +1,20 @@
+/* #external{
+    border-style: double;
+} */
+#internal, th,td{
+    border: 1px solid black;
+}
+#row1{
+    width: 200px;
+    height: 300px;
+}
+#row2{
+    width: 100px;
+    height: 80px;
+}
+#internal{
+    width: 200px;
+}
+#cell3{
+  height: 50px;
+}
